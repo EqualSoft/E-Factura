@@ -1,4 +1,4 @@
-// XML generation
+// XML file generation
 				
 				$xml=new DomDocument('1.0', 'UTF-8');
         		$xml->formatOutput=true;
@@ -58,7 +58,7 @@
 					            $cbc_order_reference->appendChild($cbc_due_date_ID);}
 					            
 					            
-                            //Supplier Party
+    //Supplier Party
                             
                             
 					            
